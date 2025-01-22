@@ -1,1 +1,1 @@
-Database.zip разархивировать в CentrSM
+Database.zip разархивировать в текущий каталог
