@@ -1,0 +1,45 @@
+# Игнорируем из корня
+
+/*.code-workspace
+README.TXT
+/Тестовое задание.docx
+/public/
+
+
+# Игнорируем файлы Backend
+
+/Backend/docker-compose.yml
+/Backend/app/__pycache__
+/Backend/app/bin/
+/Backend/app/include/
+/Backend/app/lib/
+/Backend/app/__init__.py
+/Backend/app/lib64
+/Backend/app/pyvenv.cfg
+/Backend/app/requirements.in
+
+
+# Игнорируем файлы Frontend
+
+/Frontend/docker-compose.yml
+/Frontend/app/.vscode
+/Frontend/app/.gitignore
+/Frontend/app/CHANGELOG.md
+/Frontend/app/dockerfile copy
+/Frontend/app/LICENSE.md
+/Frontend/app/README.md
+/Frontend/app/node_modules
+/Frontend/app/coverage
+/Frontend/app/*.log*
+/Frontend/app/.nuxt
+/Frontend/app/.nitro
+/Frontend/app/.cache
+/Frontend/app/.output
+/Frontend/app/.env
+/Frontend/app/dist
+/Frontend/app/.DS_Store
+/Frontend/app/.idea
+/Frontend/app/.eslintcache
+/Frontend/app/api-generator/typedoc.json
+/Frontend/app/**/.DS_Store
+
